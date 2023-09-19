@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 blablabla 
 bla bla bla modifier dév 2
+Bla Bla Blu modifié par dev1 !
+
